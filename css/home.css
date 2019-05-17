@@ -1,0 +1,15 @@
+.logo-img{
+  width: 30%;
+}
+
+img{
+  max-height: 300px;
+}
+
+div.secondary.callout.text-center{
+  min-height: 242px;
+}
+body{
+	background-image: url("img/2.jpg");
+  background-attachment: fixed;
+}
